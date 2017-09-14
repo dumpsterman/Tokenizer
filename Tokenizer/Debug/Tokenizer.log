@@ -1,0 +1,4 @@
+﻿  Tokenizer.cpp
+c:\users\computermachine\desktop\coding\tokenizer\tokenizer\tokenizer.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\computermachine\desktop\coding\tokenizer\tokenizer\tokenizer.cpp(29): error C2440: '=': cannot convert from 'std::string' to 'char'
+  c:\users\computermachine\desktop\coding\tokenizer\tokenizer\tokenizer.cpp(29): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
